@@ -20,7 +20,7 @@ public class Main {
 
 		User user = new User(7, 37, "Ricardo ", "Quaresma ", "info@besiktas.com ");
 		{
-			System.out.println(user.getFirstName() + user.getLastName() + student.getCourseName() + "kursuna kayıt edildi.");
+			System.out.println(user.getFirstName() + user.getLastName() + student.getCourseName() + "kursuna kayit edildi.");
 		}	
 	}
 }
