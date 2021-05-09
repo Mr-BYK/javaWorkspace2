@@ -3,7 +3,6 @@ package WorkSpace;
 public class Instructor 
 
 {
-	
 	private String specialist;
 	private String training;
 	
